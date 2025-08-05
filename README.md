@@ -9,7 +9,7 @@
 
 
 
-## SOBRE MI
+## 📖 Sobre Mi 
 Soy técnico en Informática Profesional y Personal, graduado en el
 Complejo Educativo 'Dr. Francisco de Gurruchaga'. Durante mi
 formación, adquirí sólidos conocimientos en tecnologías de la
@@ -21,11 +21,23 @@ perfeccionando mis habilidades en programación, análisis de
 sistemas y resolución de problemas tecnológicos. Mi objetivo es
 crecer como profesional en el ámbito tecnológico
 
-## REDES SOCIALES
+## 🛠️ Habilidades
+- 🤝 Compañerismo
+
+- 📚 Autodidacta
+
+- 🔄 Adaptación al cambio
+
+- 🧩 Resolución de problemas
+
+- 🧠 Pensamiento crítico
+
+- 🔍 Curiosidad innata
+
+## 🌐 Redes Sociales
 <div>
   <samp>
     <p align="center">
-      <br/>
       <a href="https://www.instagram.com/gonzaly" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -35,6 +47,7 @@ crecer como profesional en el ámbito tecnológico
       <a href="https://x.com/Gonza_2205" target="blank"><img align="center"
          src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"
          alt="azzar" height="30"/></a>
+      </p>
   <p align="center">
        <a href="https://steamcommunity.com/id/gonzaly/" target="blank"><img align="center"
          src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"
@@ -46,6 +59,6 @@ crecer como profesional en el ámbito tecnológico
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
-      <br>
-    </p>
+    
+  </samp>
 </div>
